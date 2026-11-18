@@ -1,6 +1,6 @@
 class Greeter:
     def greet(self):
-        print("Hello, Joshua A. Gonzaga!")
+        print("Hello, Julius Grand R. Gonzales!")
         print("Welcome to OOP in Python!")
 
 greeter = Greeter()
